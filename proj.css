@@ -1,0 +1,100 @@
+h2{
+    margin: auto;
+        border: solid  rgb(196, 187, 187) 2px;
+        border-radius: 5px;
+        width: 1000px;
+        background-color: rgba(15, 15, 16, 0.167) ;
+        color: rgb(43, 41, 41);
+        font-style: oblique;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        text-align: center;
+    
+    }
+    .navbar{
+        margin:5px 5px;
+        background-color:black;
+        width: 420px;
+        border: solid grey 2px;
+       
+        
+    }
+    .navbar ul{
+        overflow: auto;
+        padding: 0%;
+margin: 0;
+        
+    }
+    .navbar li{
+          float: left;
+          margin: 3px;
+          list-style: none;
+          
+
+}
+.navbar li a{
+color: wheat;
+
+padding: 4PX;
+text-decoration: none;
+}
+.li1{
+border: solid rgb(172, 167, 172) 2px;
+margin: 2px;
+}
+
+body{
+margin: 0px;
+padding: 0px;
+/* background: url(https://th.bing.com/th/id/OIP.CUsWPjAY2ZBr_5qxCvf2JAHaE8?w=235&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7); */
+background: url(https://wallpapercave.com/wp/wp8099727.jpg)
+
+}
+#img1{
+float: right;
+margin: 2px 100px;
+border: grey solid 2px;
+
+
+}
+.img2{
+
+margin:  40px 20px  ;
+border: black solid 2px;
+}
+.logo{
+float: left;
+}
+
+.container{
+border: 3px  rgb(55, 38, 38) solid;
+border-radius: 10px;
+margin:50px 50px ;
+padding :75px 75px;
+font-size: larger;
+ font-style:italic;
+ color: white;
+background-color:rgb(77, 44, 32);
+
+width: 500px;
+}
+
+span{
+    font-size: larger;
+    margin: 5px 5px;
+    color: rgb(84, 25, 25);
+    margin: 10px
+
+}
+form{
+margin: 15px 10px
+
+}
+#input1{
+    color: rgb(114, 48, 48);
+
+
+}
+#input2{
+    color: rgb(114, 48, 48);
+
+}
